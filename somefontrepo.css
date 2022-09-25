@@ -596,3 +596,686 @@ Some Font Repo CSS File
     font-weight: 800;
     src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pro/A-OTF-UDShinMGoPro-Heavy.woff");
 }
+
+/* ===== TW9yaXNhd2FGb250 - Pr6N ===== */
+
+@font-face {
+    font-family: "A-OTF Futo Go B101 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-FutoGoB101Pr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Futo Min A101 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-FutoMinA101Pr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic BBB Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicBBBPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Reg.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Gothic MB101 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-GothicMB101Pr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Midashi Go MB31 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-MidashiGoPr6N-MB31.woff");
+}
+@font-face {
+    font-family: "A-OTF Midashi Min MA31 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-MidashiMinPr6N-MA31.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y40 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYfozPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y40 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYfozPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y40 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYfozPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y40 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYfozPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y40 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYfozPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y10 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYonzPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y30 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYthzPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Reimin Y20 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ReimYtwzPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-ExHeavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Ryumin Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-RyuminPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Go Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinGoPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF Shin Maru Go Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShinMGoPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF Shuei Mincho Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShueiMinPr6N-L.woff");
+}
+@font-face {
+    font-family: "A-OTF Shuei Mincho Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShueiMinPr6N-M.woff");
+}
+@font-face {
+    font-family: "A-OTF Shuei Mincho Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-ShueiMinPr6N-B.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPrShinMGoo-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPr6N-ExBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Reimin Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDReiminPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con80 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOeizPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con50 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOfizPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con90 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOnizPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con70 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsezPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-ExLight.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Con60 Pr6N";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoCOsizPr6N-Ultra.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go NT Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoNTPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Go Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinGoPr6N-Heavy.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-Light.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-Regular.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-Medium.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-DeBold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-Bold.woff");
+}
+@font-face {
+    font-family: "A-OTF UD Shin Maru Go Pr6N";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/TW9yaXNhd2FGb250/pr6n/A-OTF-UDShinMGoPr6N-Heavy.woff");
+}
