@@ -1,0 +1,87 @@
+A-OTF Folk Pro
+A-OTF Futo Go B101 Pro
+A-OTF Futo Min A101 Pro
+A-OTF Gothic BBB Pro
+A-OTF Gothic MB101 Pro
+A-OTF Jun Pro
+A-OTF Kaisho MCBK1 Pro
+A-OTF Kakumin Pro
+A-OTF Kyoukasho ICA Pro
+A-OTF Maru Folk Pro
+A-OTF Midashi Go MB31 Pro
+A-OTF Midashi Min MA31 Pro
+A-OTF MainichiNewspapersG Pro
+A-OTF MainichiNewspapersM Pro
+A-OTF Reimin Pro
+A-OTF Reimin Y40 Pro
+A-OTF Reimin Y10 Pro
+A-OTF Reimin Y30 Pro
+A-OTF Reimin Y20 Pro
+A-OTF Ryumin Pro
+A-OTF Shin Go Pro
+A-OTF Shin Maru Go Pro
+A-OTF Shinsei Kaisho CBSK1 Pro
+A-OTF Shuei Mincho Pro
+A-OTF UD Reimin Pro
+A-OTF UD Shin Go NT Pro
+A-OTF UD Shin Go Pro
+A-OTF UD Shin Maru Go Pro
+A-OTF Futo Go B101 Pr6N
+A-OTF Futo Min A101 Pr6N
+A-OTF Gothic BBB Pr6N
+A-OTF Gothic MB101 Pr6N
+A-OTF Midashi Go MB31 Pr6N
+A-OTF Midashi Min MA31 Pr6N
+A-OTF Reimin Pr6N
+A-OTF Reimin Y40 Pr6N
+A-OTF Reimin Y10 Pr6N
+A-OTF Reimin Y30 Pr6N
+A-OTF Reimin Y20 Pr6N
+A-OTF Ryumin Pr6N
+A-OTF Shin Go Pr6N
+A-OTF Shin Maru Go Pr6N
+A-OTF Shuei Mincho Pr6N
+A-OTF UD Reimin Pr6N
+A-OTF UD Shin Go Con80 Pr6N
+A-OTF UD Shin Go Con50 Pr6N
+A-OTF UD Shin Go Con90 Pr6N
+A-OTF UD Shin Go Con70 Pr6N
+A-OTF UD Shin Go Con60 Pr6N
+A-OTF UD Shin Go NT Pr6N
+A-OTF UD Shin Go Pr6N
+A-OTF UD Shin Maru Go Pr6N
+A-OTF Futo Go B101 Pr6
+A-OTF Futo Min A101 Pr6
+A-OTF Gothic BBB Pr6
+A-OTF Gothic MB101 Pr6
+A-OTF Midashi Go MB31 Pr6
+A-OTF Midashi Min MA31 Pr6
+A-OTF Reimin Pr6
+A-OTF Reimin Y40 Pr6
+A-OTF Reimin Y10 Pr6
+A-OTF Reimin Y30 Pr6
+A-OTF Reimin Y20 Pr6
+A-OTF Ryumin Pr6
+A-OTF Shin Go Pr6
+A-OTF Shin Maru Go Pr6
+A-OTF Shuei Mincho Pr6
+A-OTF UD Reimin Pr6
+A-OTF UD Shin Go Con80 Pr6
+A-OTF UD Shin Go Con50 Pr6
+A-OTF UD Shin Go Con90 Pr6
+A-OTF UD Shin Go Con70 Pr6
+A-OTF UD Shin Go Con60 Pr6
+A-OTF UD Shin Go NT Pr6
+A-OTF UD Shin Go Pr6
+A-OTF UD Shin Maru Go Pr6
+A-OTF Futo Go B101 Pr5
+A-OTF Futo Min A101 Pr5
+A-OTF Gothic BBB Pr5
+A-OTF Gothic MB101 Pr5
+A-OTF Midashi Go MB31 Pr5
+A-OTF Midashi Min MA31 Pr5
+A-OTF Ryumin Pr5
+A-OTF Sei Kaisho CB1 Pr5
+A-OTF Shin Go Pr5
+A-OTF Shinsei Kaisho CBSK1 Pr5
+A-OTF Shuei Mincho Pr5
