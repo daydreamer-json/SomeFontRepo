@@ -4,6 +4,19 @@ Some Font Repo CSS File
 =======================
 */
 
+/* ===== mhy gi Fonts ===== */
+
+@font-face {
+  font-family: "SDK_SC_Web";
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/gi/zh-cn.woff");
+}
+@font-face {
+  font-family: "SDK_JP_Web";
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/gi/ja-jp.woff");
+}
+
 /* ===== TW9yaXNhd2FGb250 - Pro ===== */
 
 @font-face {
