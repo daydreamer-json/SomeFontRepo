@@ -4,6 +4,34 @@ Some Font Repo CSS File
 =======================
 */
 
+/* ===== DIN Alternate ===== */
+
+@font-face {
+  font-family: "DIN Alternate";
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_light.woff");
+}
+@font-face {
+  font-family: "DIN Alternate";
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_regular.woff");
+}
+@font-face {
+  font-family: "DIN Alternate";
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_medium.woff");
+}
+@font-face {
+  font-family: "DIN Alternate";
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_bold.woff");
+}
+@font-face {
+  font-family: "DIN Alternate";
+  font-weight: 900;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_black.woff");
+}
+
 /* ===== mhy gi Fonts ===== */
 
 @font-face {
