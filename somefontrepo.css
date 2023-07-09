@@ -9,27 +9,168 @@ Some Font Repo CSS File
 @font-face {
   font-family: "DIN Alternate";
   font-weight: 300;
-  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_light.woff");
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_light.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_light.woff2") format("woff2");
 }
 @font-face {
   font-family: "DIN Alternate";
   font-weight: 400;
-  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_regular.woff");
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_regular.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_regular.woff2") format("woff2");
 }
 @font-face {
   font-family: "DIN Alternate";
   font-weight: 500;
-  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_medium.woff");
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_medium.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_medium.woff2") format("woff2");
 }
 @font-face {
   font-family: "DIN Alternate";
   font-weight: 700;
-  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_bold.woff");
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_bold.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_bold.woff2") format("woff2");
 }
 @font-face {
   font-family: "DIN Alternate";
   font-weight: 900;
-  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_black.woff");
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_black.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/din_alternate_black.woff2") format("woff2");
+}
+
+/* ===== DIN Pro ===== */
+
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Light.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Medium.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Bold.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 900;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Black.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Black.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 300;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-LightItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-LightItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 400;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Italic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 500;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-MediumItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 700;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-BoldItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-BoldItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro";
+  font-weight: 900;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-BlackItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-BlackItalic.woff2") format("woff2");
+}
+
+/* ===== DIN Pro Condensed ===== */
+
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedLight.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedLight.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedRegular.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedRegular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedMedium.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedMedium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBold.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 900;
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBlack.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBlack.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 300;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedLightItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedLightItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 400;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 500;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedMediumItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedMediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 700;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBoldItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBoldItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "DIN Pro Condensed";
+  font-weight: 900;
+  font-style: "italic";
+  src: url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBlackItalic.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/daydreamer-json/SomeFontRepo@main/woff/din/pro/DINPro-CondensedBlackItalic.woff2") format("woff2");
 }
 
 /* ===== mhy gi Fonts ===== */
